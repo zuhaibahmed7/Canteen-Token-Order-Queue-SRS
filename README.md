@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/28196969/README.2.md)
+[README.md](https://github.com/user-attachments/files/28196969/README.2.md)
 # 🍽️ Canteen Token / Order Queue Management System
 
 > **Software Requirements Specification (SRS)**  
