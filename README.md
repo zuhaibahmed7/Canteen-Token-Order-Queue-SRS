@@ -78,6 +78,10 @@ University canteens face serious congestion during break hours. Students waste t
 
 ---
 
+
+## Demo
+- Visual representation: file:///C:/Users/Zuhaib%20Ahmed/Downloads/canteen_system.html
+
 ## 📬 Contact
 
 Feel free to connect on LinkedIn or GitHub if you have any questions about this project!
