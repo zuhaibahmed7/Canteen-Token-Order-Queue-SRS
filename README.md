@@ -80,7 +80,7 @@ University canteens face serious congestion during break hours. Students waste t
 
 
 ## Demo
-- Visual representation: file:///C:/Users/Zuhaib%20Ahmed/Downloads/canteen_system.html
+- Visual representation: https://canteen-token-order-queue-srs.vercel.app/
 
 ## 📬 Contact
 
